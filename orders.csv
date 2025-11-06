@@ -1,4 +1,4 @@
-Order ID,Customer Name,Order Value (₹),GST (18%),Service Charges (5%),Packaging Charges (₹),Total (₹),Shelf Life (Days),Date of Order,Date of Manufacturing,Consumed By
+Order ID,Customer Name,Order Value,GST,Service Charges,Packaging Charges,Total,Shelf Life,Date of Order,Date of Manufacturing,Consumed By
 ORD-25001,Aarav Sharma,1550.00,279.00,77.50,50.00,1956.50,365,2025-11-06,2025-05-10,2026-06-15
 ORD-25002,Priya Singh,875.50,157.59,43.78,25.00,1101.87,180,2025-11-08,2025-09-01,2026-02-28
 ORD-25003,Rahul Verma,3200.00,576.00,160.00,100.00,4036.00,730,2025-11-12,2025-01-01,2027-01-01
